@@ -1,5 +1,5 @@
 # Introduction to Data Science 2018
-Skoltech Cource
+Skoltech Course
 MA03111 (Term 1B, 2018-2019)
 
 ## About
